@@ -1,0 +1,9 @@
+@article{REPO258,
+    author = "Shao, Yulin and Cai, Yucheng and Wang, Taotao and Guo, Ziyang and Liu, Peng and Luo, Jiajun and G¨¹nd¨¹z, Deniz",
+    journal = "IEEE Transactions on Mobile Computing",
+    number = "",
+    pages = "1-16",
+    title = "{Learning-based Autonomous Channel Access in the Presence of Hidden Terminals}",
+    volume = "",
+    year = "2023"
+}
